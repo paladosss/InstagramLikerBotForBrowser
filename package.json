@@ -1,0 +1,17 @@
+{
+  "name": "instalicker",
+  "version": "1.0.0",
+  "description": "InstaLicker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paladosss",
+  "license": "ISC",
+  "dependencies": {
+    "log4js": "^2.4.1",
+    "phantomjs": "^2.1.7",
+    "promise": "^8.0.1",
+    "selenium-webdriver": "^3.6.0"
+  }
+}

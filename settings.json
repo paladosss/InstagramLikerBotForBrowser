@@ -1,0 +1,8 @@
+{
+    "smart_like_mode": true,
+    "sleep_delay": 2200,
+    "like_depth_per_user": 5,
+    "instagram_account_username": "username",
+    "instagram_account_password": "password",
+    "instagram_accounts_to_be_liked": ["paladosss"]
+}
